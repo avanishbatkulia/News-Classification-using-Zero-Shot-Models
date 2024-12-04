@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of zero-shot classification models to categorize news articles into predefined categories. 
+This project demonstrates the use of zero-shot classification models to categorize news articles into predefined categories. Project still in progress, updating the codes every week (friday).
 
 ### Supported Models
 - **BART** (`facebook/bart-large-mnli`)
